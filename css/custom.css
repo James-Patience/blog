@@ -1,0 +1,31 @@
+.banner{
+	position: relative;
+}
+
+.carousel {
+	/*position: absolute;*/
+	top: 0;
+}
+.navbar{
+	position: absolute;
+	z-index: 10;
+	background-color: #fff;
+	width: 100%;
+	box-shadow: 1px 2px 8px 2px black;
+}
+
+.transparent {
+	background-color: #2a066fd6 !important;
+}
+
+.nav-item a:hover{
+	text-decoration: underline;
+	text-decoration-color: orange;
+}
+.about h1, text-underine{
+	text-decoration: underline;
+}
+.about p{
+	text-indent: 20px;
+
+}
