@@ -27,5 +27,7 @@
 }
 .about p{
 	text-indent: 20px;
-
+}
+.bg-grey{
+	background-color: #ccc;
 }
